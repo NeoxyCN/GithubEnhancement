@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Github Enhancement
 // @author       Neoxy
-// @match        *://github.com/*
+// @match        github.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @homepageURL  https://github.com/NeoxyCN/GithubEnhancement
 // ==/UserScript==
